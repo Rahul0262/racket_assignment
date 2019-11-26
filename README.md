@@ -1,4 +1,4 @@
-# racket_assignment
+# Racket Assignment
 This assignment is regarding the basics of racket with few examples.
 ## concepts used:
 1. TailRecursion
